@@ -1,4 +1,4 @@
-# ✈️ Airline Review Sentiment Analysis
+# ✈️ British Airline Review Sentiment Analysis
 
 This project scrapes customer reviews for British Airways from [airlinequality.com](https://www.airlinequality.com/airline-reviews/british-airways), processes the text using NLP techniques, and performs sentiment analysis to assess overall passenger satisfaction. It includes data extraction, transformation, and visualization stages to uncover insights from user-generated reviews.
 
